@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omnibot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>  
+    <div class="main-container">
+        <div class="navbar">
+            <div id="greeting"></div>
+        </div>
+        <div class="chat-container">
+            <!-- <div class="user-chat-box">
+                <img id="userImage" src="user.png" alt="userImage" width="60">
+                <div class="user-chat-area">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque repellat esse in veritatis quis odio incidunt voluptates animi iste. Ullam quas et sequi a atque.
+                </div>
+            </div> -->
+            <div class="ai-chat-box">
+                <img id="aiImage" src="ai.png" alt="aiImage" width="60">
+                <div class="ai-chat-area">
+                    Hello! How can I help you today?
+                    <!-- <img class="load" src="loading.gif" alt="" class="load" width="50px" background-color="black"> -->
+                </div>
+                
+            </div>
+        </div>
+        <div class="prompt-area">
+            <input type="text" id="prompt" placeholder="Message...">
+            <!-- <button id="image"><img src="img.png" alt="" width="25"></button> -->
+            <button id="submit"><img src="submit.png" alt="" width="25"></button>
+            <div class="dropdown-container">
+                <label for="aiSelection">Choose AI Model:</label>
+                <select id="aiSelection">
+                    <option value="gemini">Gemini</option>
+                    <option value="openrouter">openrouter</option>
+                    <option value="huggingface">huggingface</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
