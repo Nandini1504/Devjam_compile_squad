@@ -1,7 +1,7 @@
 # Compile_Squad
 Omnibot: A multi tool chatbot solution
 ## DEVJAM TEMPLATE
-[IMAGE](https://github.com/user-attachments/assets/b2ec12b1-b13a-41cd-b721-12d02222e78a)
+![IMAGE](https://github.com/user-attachments/assets/b2ec12b1-b13a-41cd-b721-12d02222e78a)
 
 
 
@@ -21,7 +21,7 @@ TECHNOLOGY STACK
 1. [Nandini1504] (https://github.com/Nandini1504)
 2. [YogitaBhandari09] (https://github.com/YogitaBhandari09)
 
-[END_IMAGE](https://github.com/user-attachments/assets/196980a5-ebd7-4b46-b231-95b77be205df)
+![BUILT AT DEVJAM](https://github.com/user-attachments/assets/196980a5-ebd7-4b46-b231-95b77be205df)
 
    
    
