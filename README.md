@@ -1,19 +1,22 @@
-# Compile_Squ_Omnibot
-This is a chatbot
+# Compile_Squad
+Omnibot: A multi tool chatbot solution
+## DEVJAM TEMPLATE
+![IMAGE](https://github.com/user-attachments/assets/b2ec12b1-b13a-41cd-b721-12d02222e78a)
+
+
+
 
 ## INTRODUCTION-
+A CHATBOT WEBSITE WHERE YOU CAN ACCESS MULTIPLE AIs AND CHOOSE WHICH GPT APP WE WANT TO CHOOSE FOR OUR ANSWER. IT WILL ALSO GREET USERS ACCORDING TO TIME AS MORNING, AFTERNOON OR EVENING.
+TECHNOLOGY STACK
 
-This is a chatbot website. Here we can choose which website we need to use for our answers.It will also greet its users depending upon time of the day.
 
-## TECHNOLOGY STACK:
+1. HTML
+2. JAVASCRIPT
+3. CSS
 
-1.HTML
-2.CSS
-3.JAVASCIPT
-
-## CONTRIBUTORS
-
-**TEAM NAME: COMPILE_SQUAD**
-
-1. [Nandini Srivastava] (https://github.com/Nandini1504)
-2. [Yogita Bhandari] (https://github.com/YogitaBhandari09)
+   
+## CONTRIBUTORS-
+**team name: Compile_Squad**
+- [Nandini Srivastava] (https://github.com/Nandini1504)
+- [Yogita Bhandari] (https://github.com/YogitaBhandari09)
