@@ -18,8 +18,8 @@ TECHNOLOGY STACK
    
 ## CONTRIBUTORS-
 **team name: Compile_Squad**
-1. [Nandini1504] (https://github.com/Nandini1504)
-2. [YogitaBhandari09] (https://github.com/YogitaBhandari09)
+1. ![Nandini1504] (https://github.com/Nandini1504)
+2. ![YogitaBhandari09] (https://github.com/YogitaBhandari09)
 
 ![BUILT AT DEVJAM](https://github.com/user-attachments/assets/196980a5-ebd7-4b46-b231-95b77be205df)
 
